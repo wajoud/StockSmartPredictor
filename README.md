@@ -15,7 +15,7 @@ Our mission is to democratize access to sophisticated stock market forecasts, en
 To dive into stock market prediction, clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/StockSmartPredictor.git
+git clone https://github.com/wajoud/StockSmartPredictor.git
 cd StockSmartPredictor
 ```
 
@@ -24,8 +24,7 @@ cd StockSmartPredictor
 Navigate through the repository to access different models and tools. Detailed documentation is provided for each model to guide you through setup and execution:
 
 ```bash
-cd model_directory
-python predict.py
+STOCK.ipynb
 ```
 
 ## 🤝 Contributing
